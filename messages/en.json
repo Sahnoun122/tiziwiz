@@ -1,9 +1,9 @@
 {
   "meta": {
-    "siteName": "Tiziwiz Delivery",
-    "titleTemplate": "%s | Tiziwiz Delivery",
-    "defaultTitle": "Tiziwiz Delivery — Fast delivery in Agadir",
-    "description": "Tiziwiz Delivery is the fast delivery service in Agadir: meals, groceries, medicine, parcels and business deliveries, available 24/7."
+    "siteName": "Tiziwiz SARL",
+    "titleTemplate": "%s | Tiziwiz SARL",
+    "defaultTitle": "Tiziwiz SARL — Fast delivery in Agadir",
+    "description": "Tiziwiz SARL is the fast delivery service in Agadir: meals, groceries, medicine, parcels and business deliveries, available 24/7."
   },
   "nav": {
     "home": "Home",
@@ -20,7 +20,7 @@
     "mobileAriaLabel": "Mobile navigation"
   },
   "footer": {
-    "description": "Tiziwiz Delivery is the fast delivery service in Agadir: meals, groceries, medicine, parcels and business deliveries, available 24/7.",
+    "description": "Tiziwiz SARL is the fast delivery service in Agadir: meals, groceries, medicine, parcels and business deliveries, available 24/7.",
     "navigationHeading": "Navigation",
     "servicesHeading": "Services",
     "contactHeading": "Contact",
@@ -55,16 +55,16 @@
     "home": "Home",
     "breadcrumbAriaLabel": "Breadcrumb"
   },
-  "whatsappMessage": "Hello, I would like to place an order with Tiziwiz Delivery.",
+  "whatsappMessage": "Hello, I would like to place an order with Tiziwiz SARL.",
   "whatsappMessageService": "Hello, I would like to place an order: {service}.",
   "home": {
     "hero": {
       "badge": "Available 24/7 in Agadir",
-      "title": "Tiziwiz Delivery — your fast delivery service in Agadir",
+      "title": "Tiziwiz SARL — your fast delivery service in Agadir",
       "subtitle": "Meals, groceries, medicine, parcels or business deliveries: our team of experienced couriers covers all of Agadir, at any hour, with one goal — getting it to you fast and in perfect condition.",
       "orderCta": "Order now",
       "contactCta": "Contact us",
-      "imageAlt": "Tiziwiz Delivery courier on a scooter making a delivery through the streets of Agadir",
+      "imageAlt": "Tiziwiz SARL courier on a scooter making a delivery through the streets of Agadir",
       "floatingStatSuffix": " min",
       "floatingStatLabel": "Average delivery time downtown",
       "trustLine": "When you're short on time, we're just a message away."
@@ -72,7 +72,7 @@
     "services": {
       "eyebrow": "Our services",
       "title": "Everything you need delivered in Agadir, one point of contact",
-      "subtitle": "Meals, groceries, medicine, parcels or business needs: Tiziwiz Delivery covers every everyday delivery."
+      "subtitle": "Meals, groceries, medicine, parcels or business needs: Tiziwiz SARL covers every everyday delivery."
     },
     "whyUs": {
       "eyebrow": "Why choose us",
@@ -87,11 +87,11 @@
     "stats": {
       "eyebrow": "Tiziwiz in numbers",
       "title": "Agadir's trust, measured",
-      "imageAlt": "Tiziwiz Delivery logistics warehouse where orders are prepared before delivery"
+      "imageAlt": "Tiziwiz SARL logistics warehouse where orders are prepared before delivery"
     },
     "testimonials": {
       "eyebrow": "Testimonials",
-      "title": "What Agadir says about Tiziwiz Delivery",
+      "title": "What Agadir says about Tiziwiz SARL",
       "prevLabel": "Previous testimonial",
       "nextLabel": "Next testimonial"
     },
@@ -152,7 +152,7 @@
   "servicesPage": {
     "title": "Our delivery services in Agadir",
     "subtitle": "A full range of services designed to simplify everyday life for individuals and businesses in Agadir, available 24/7.",
-    "metaDescription": "Discover all of Tiziwiz Delivery's services in Agadir: meals, groceries, medicine, parcels, express delivery and business solutions."
+    "metaDescription": "Discover all of Tiziwiz SARL's services in Agadir: meals, groceries, medicine, parcels, express delivery and business solutions."
   },
   "serviceDetail": {
     "includesTitle": "What this service includes"
@@ -162,7 +162,7 @@
       "title": "Meal delivery",
       "shortTitle": "Meals",
       "description": "Your favorite dishes delivered hot and on time, from the best restaurants in Agadir.",
-      "longDescription": "Whether you're craving a pizza, a traditional tajine or a gourmet burger, Tiziwiz Delivery picks up your order straight from the kitchen and delivers it in record time, wherever you are in Agadir.",
+      "longDescription": "Whether you're craving a pizza, a traditional tajine or a gourmet burger, Tiziwiz SARL picks up your order straight from the kitchen and delivers it in record time, wherever you are in Agadir.",
       "keyword": "restaurant delivery agadir",
       "benefits": [
         "Partnerships with the most popular restaurants in Agadir",
@@ -188,7 +188,7 @@
       "title": "Medicine delivery",
       "shortTitle": "Medicine",
       "description": "Discreet pickup and delivery of your medication from your pharmacy in Agadir.",
-      "longDescription": "Whether it's a prescription or over-the-counter pharmacy products, Tiziwiz Delivery picks up your medication from the pharmacy and brings it to you quickly and discreetly, 24/7.",
+      "longDescription": "Whether it's a prescription or over-the-counter pharmacy products, Tiziwiz SARL picks up your medication from the pharmacy and brings it to you quickly and discreetly, 24/7.",
       "keyword": "pharmacy delivery agadir",
       "benefits": [
         "Available 24/7, including for emergencies",
@@ -214,7 +214,7 @@
       "title": "Parcel delivery",
       "shortTitle": "Parcels",
       "description": "Safe sending and receiving of parcels, anywhere in the city of Agadir.",
-      "longDescription": "Whether it's a gift, an online purchase to pick up, or a parcel to send to a loved one, Tiziwiz Delivery ensures careful handling and fast delivery throughout the city.",
+      "longDescription": "Whether it's a gift, an online purchase to pick up, or a parcel to send to a loved one, Tiziwiz SARL ensures careful handling and fast delivery throughout the city.",
       "keyword": "parcel delivery agadir",
       "benefits": [
         "Careful handling of your parcels",
@@ -227,7 +227,7 @@
       "title": "Business delivery",
       "shortTitle": "Businesses",
       "description": "A reliable, recurring delivery solution for shops and businesses in Agadir.",
-      "longDescription": "Restaurants, shops, clinics or offices: Tiziwiz Delivery supports businesses in Agadir with one-off or recurring delivery solutions tailored to your activity.",
+      "longDescription": "Restaurants, shops, clinics or offices: Tiziwiz SARL supports businesses in Agadir with one-off or recurring delivery solutions tailored to your activity.",
       "keyword": "business delivery agadir",
       "benefits": [
         "Tailor-made solutions for your business",
@@ -239,11 +239,11 @@
   },
   "about": {
     "title": "The delivery service built for Agadir",
-    "intro": "Tiziwiz Delivery was born from a simple observation: in Agadir, time is precious, and a reliable, fast delivery service available around the clock is no longer a luxury — it's an everyday necessity. We built our service around that requirement.",
-    "metaDescription": "Discover Tiziwiz Delivery, the delivery service in Agadir available 24/7: our mission, our values and the neighborhoods we serve.",
+    "intro": "Tiziwiz SARL was born from a simple observation: in Agadir, time is precious, and a reliable, fast delivery service available around the clock is no longer a luxury — it's an everyday necessity. We built our service around that requirement.",
+    "metaDescription": "Discover Tiziwiz SARL, the delivery service in Agadir available 24/7: our mission, our values and the neighborhoods we serve.",
     "missionEyebrow": "Our mission",
     "missionTitle": "Simplifying everyday life, one delivery at a time",
-    "missionImageAlt": "Professional Tiziwiz Delivery courier at work in Agadir",
+    "missionImageAlt": "Professional Tiziwiz SARL courier at work in Agadir",
     "missionParagraph1": "Whether it's a meal, groceries, urgent medication or a parcel to deliver, our team of experienced couriers knows the streets of Agadir inside and out. This deep local knowledge lets us cut delivery times and provide a reliable service, day and night.",
     "missionParagraph2": "We believe a good delivery service rests on three pillars: speed, safety, and direct, frictionless human contact. This philosophy guides every delivery we make, for individuals and businesses alike in Agadir.",
     "valuesEyebrow": "Our values",
@@ -251,7 +251,7 @@
     "areaEyebrow": "Service area",
     "areaTitle": "Present throughout Agadir",
     "areaText": "Our deep knowledge of Agadir's geography lets us optimize every route, even during peak hours.",
-    "areaImageAlt": "Agadir seafront, one of the areas served by Tiziwiz Delivery",
+    "areaImageAlt": "Agadir seafront, one of the areas served by Tiziwiz SARL",
     "neighborhoods": [
       "Downtown",
       "Seafront",
@@ -266,7 +266,7 @@
   "faqPage": {
     "title": "Frequently asked questions",
     "subtitle": "Find answers to the most common questions about our delivery services in Agadir. Have another question? Contact us directly.",
-    "metaDescription": "All the answers to your questions about delivery in Agadir with Tiziwiz Delivery: orders, timing, payment, service areas and business solutions.",
+    "metaDescription": "All the answers to your questions about delivery in Agadir with Tiziwiz SARL: orders, timing, payment, service areas and business solutions.",
     "ctaTitle": "Can't find your answer?",
     "ctaSubtitle": "Our team is available 24/7 to answer all your questions.",
     "ctaButton": "Chat on WhatsApp"
@@ -282,13 +282,13 @@
     "items": [
       {
         "category": "Commandes",
-        "question": "How do I place an order with Tiziwiz Delivery?",
+        "question": "How do I place an order with Tiziwiz SARL?",
         "answer": "It's simple: contact us on WhatsApp or by phone at +212 667 25 33 76, letting us know what you'd like delivered (meals, groceries, medicine, parcels...) and your address in Agadir. A courier is assigned to your order within minutes."
       },
       {
         "category": "Commandes",
         "question": "Can I order at any time?",
-        "answer": "Yes, Tiziwiz Delivery is available 24/7, including weekends and public holidays, to meet both your urgent and everyday needs."
+        "answer": "Yes, Tiziwiz SARL is available 24/7, including weekends and public holidays, to meet both your urgent and everyday needs."
       },
       {
         "category": "Commandes",
@@ -342,7 +342,7 @@
       },
       {
         "category": "Zones desservies",
-        "question": "Which areas of Agadir does Tiziwiz Delivery cover?",
+        "question": "Which areas of Agadir does Tiziwiz SARL cover?",
         "answer": "We deliver throughout the city of Agadir and its immediate surroundings. Contact us to confirm coverage for your specific neighborhood."
       },
       {
@@ -357,12 +357,12 @@
       },
       {
         "category": "Entreprises",
-        "question": "Can we set up a recurring partnership with Tiziwiz Delivery?",
+        "question": "Can we set up a recurring partnership with Tiziwiz SARL?",
         "answer": "Absolutely. We offer terms tailored to businesses with regular delivery needs. Contact us to discuss a custom solution."
       },
       {
         "category": "Entreprises",
-        "question": "How can I contact Tiziwiz Delivery about a business request?",
+        "question": "How can I contact Tiziwiz SARL about a business request?",
         "answer": "You can reach us at +212 667 25 33 76 by phone or WhatsApp, or via the form on the Contact page, specifying that it's a business request."
       }
     ]
@@ -370,13 +370,13 @@
   "contactPage": {
     "title": "Let's talk about your delivery",
     "subtitle": "A question, an urgent order, or a recurring need for your business? Our team is available 24/7.",
-    "metaDescription": "Contact Tiziwiz Delivery in Agadir: phone, WhatsApp, address and contact form. Available 24/7.",
+    "metaDescription": "Contact Tiziwiz SARL in Agadir: phone, WhatsApp, address and contact form. Available 24/7.",
     "phoneLabel": "Phone",
     "whatsappLabel": "WhatsApp",
     "emailLabel": "Email",
     "hoursLabel": "Hours",
     "addressLabel": "Address",
-    "mapTitle": "Tiziwiz Delivery location in Agadir",
+    "mapTitle": "Tiziwiz SARL location in Agadir",
     "formTitle": "Send us a message",
     "formSubtitle": "Your message will be prepared and sent directly on WhatsApp for a quick response."
   },
@@ -393,7 +393,7 @@
     "messageError": "Please describe your request in a few words.",
     "submit": "Send via WhatsApp",
     "successNotice": "Your message has been prepared on WhatsApp — all that's left is to send it.",
-    "whatsappPrefix": "New request from the Tiziwiz Delivery website"
+    "whatsappPrefix": "New request from the Tiziwiz SARL website"
   },
   "notFound": {
     "eyebrow": "Error 404",
@@ -412,7 +412,7 @@
     "terms": "Legal Notice"
   },
   "blogPage": {
-    "title": "The Tiziwiz Delivery blog",
+    "title": "The Tiziwiz SARL blog",
     "subtitle": "Practical tips, guides and news about delivery in Agadir: meals, groceries, medicine, parcels and business solutions.",
     "metaDescription": "Tips, news and guides about delivery in Agadir: meals, groceries, medicine, parcels and business solutions."
   },
@@ -431,7 +431,7 @@
     "privacy": {
       "title": "Privacy Policy",
       "lastUpdated": "Last updated: January 2026",
-      "metaDescription": "Tiziwiz Delivery's privacy policy: what data is collected and how it is used.",
+      "metaDescription": "Tiziwiz SARL's privacy policy: what data is collected and how it is used.",
       "sections": [
         {
           "heading": "Data collected",
@@ -461,9 +461,9 @@
     },
     "terms": {
       "title": "Legal Notice",
-      "metaDescription": "Legal notice for Tiziwiz Delivery, a delivery service in Agadir.",
+      "metaDescription": "Legal notice for Tiziwiz SARL, a delivery service in Agadir.",
       "publisherHeading": "Website publisher",
-      "publisherIntro": "This website is published by Tiziwiz Delivery, a delivery service based in Agadir, Morocco.",
+      "publisherIntro": "This website is published by Tiziwiz SARL, a delivery service based in Agadir, Morocco.",
       "denomination": "Company name",
       "address": "Address",
       "phone": "Phone",
@@ -475,9 +475,9 @@
       "hostingHeading": "Hosting",
       "hostingBody": "Information about the website's host will be provided upon request at the email address above.",
       "ipHeading": "Intellectual property",
-      "ipBody": "All content on this website (text, images, logos, layout) is the property of Tiziwiz Delivery, unless otherwise stated, and may not be reproduced without prior authorization.",
+      "ipBody": "All content on this website (text, images, logos, layout) is the property of Tiziwiz SARL, unless otherwise stated, and may not be reproduced without prior authorization.",
       "liabilityHeading": "Liability",
-      "liabilityBody": "Tiziwiz Delivery strives to ensure the accuracy of the information published on this website, without guaranteeing that it is free of errors. The delivery times and rates stated are given for guidance only and may vary depending on the actual conditions of each order.",
+      "liabilityBody": "Tiziwiz SARL strives to ensure the accuracy of the information published on this website, without guaranteeing that it is free of errors. The delivery times and rates stated are given for guidance only and may vary depending on the actual conditions of each order.",
       "contactHeading": "Contact",
       "contactBody": "For any questions regarding this legal notice, you may contact us via our Contact page.",
       "creditsHeading": "Photo credits",

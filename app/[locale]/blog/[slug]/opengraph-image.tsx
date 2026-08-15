@@ -26,7 +26,7 @@ export default async function ArticleOgImage({
   // scripts. Fall back to a script-safe generic card for those locales
   // instead of embedding the (Arabic/Tifinagh) article title.
   const canRenderTitle = locale !== "ar" && locale !== "zgh"
-  const titleText = canRenderTitle ? article.frontmatter.title : "Tiziwiz Delivery — Blog"
+  const titleText = canRenderTitle ? article.frontmatter.title : "Tiziwiz SARL — Blog"
 
   return new ImageResponse(
     (
@@ -46,7 +46,7 @@ export default async function ArticleOgImage({
         <div style={{ display: "flex", alignItems: "center", gap: 16 }}>
           <img src={getEmblemDataUri()} width={56} height={56} alt="" />
           <div style={{ display: "flex", fontSize: 26, color: "#ffffff", fontWeight: 600 }}>
-            Tiziwiz <span style={{ color: "#a1a1aa", fontWeight: 400 }}>&nbsp;Delivery — Blog</span>
+            Tiziwiz <span style={{ color: "#a1a1aa", fontWeight: 400 }}>&nbsp;SARL — Blog</span>
           </div>
         </div>
 

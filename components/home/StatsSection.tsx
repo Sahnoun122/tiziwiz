@@ -15,7 +15,7 @@ export function StatsSection() {
   return (
     <section className="relative isolate overflow-hidden py-24 sm:py-28">
       <Image
-        src="/images/entrepot-logistique-livraison-agadir.jpg"
+        src="/images/entrepot-logistique-livraison-agadir-v2.jpg"
         alt={t("imageAlt")}
         fill
         sizes="100vw"

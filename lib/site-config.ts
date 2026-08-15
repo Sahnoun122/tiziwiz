@@ -1,12 +1,12 @@
 export const siteConfig = {
-  name: "Tiziwiz Delivery",
+  name: "Tiziwiz SARL",
   shortName: "Tiziwiz",
   // Registered legal entity name (as on the RC/ICE documents), distinct from the
   // trade name above — required verbatim on-site for Meta Business Verification.
   legalName: "TIZIWIZ SARL",
   tagline: "Votre service de livraison rapide à Agadir",
   description:
-    "Tiziwiz Delivery est le service de livraison rapide à Agadir : repas, courses, médicaments, colis et livraison pour entreprises, disponible 24h/24 et 7j/7.",
+    "Tiziwiz SARL est le service de livraison rapide à Agadir : repas, courses, médicaments, colis et livraison pour entreprises, disponible 24h/24 et 7j/7.",
   url: "https://tiziwizdelivery.com",
   ogImage: "/opengraph-image",
   locale: "fr_MA",
@@ -40,7 +40,7 @@ export const siteConfig = {
   },
 
   links: {
-    order: (message = "Bonjour, je souhaite passer une commande sur Tiziwiz Delivery.") =>
+    order: (message = "Bonjour, je souhaite passer une commande sur Tiziwiz SARL.") =>
       `https://wa.me/212667253376?text=${encodeURIComponent(message)}`,
     whatsapp: "https://wa.me/212667253376",
   },
@@ -55,7 +55,7 @@ export const services = [
   { slug: "livraison-de-repas", icon: "UtensilsCrossed", image: "/images/livraison-repas-restaurant-agadir.jpg" },
   { slug: "livraison-de-courses", icon: "ShoppingBasket", image: "/images/livraison-courses-supermarche-agadir.jpg" },
   { slug: "livraison-de-medicaments", icon: "Pill", image: "/images/livraison-medicaments-pharmacie-agadir.jpg" },
-  { slug: "livraison-express", icon: "Zap", image: "/images/livraison-express-urgente-agadir.jpg" },
+  { slug: "livraison-express", icon: "Zap", image: "/images/livraison-express-urgente-agadir-v2.jpg" },
   { slug: "livraison-de-colis", icon: "Package", image: "/images/livraison-colis-paquet-agadir.jpg" },
   { slug: "livraison-entreprises", icon: "Building2", image: "/images/livraison-entreprises-professionnels-agadir.jpg" },
 ] as const

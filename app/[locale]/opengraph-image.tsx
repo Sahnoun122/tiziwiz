@@ -41,7 +41,7 @@ export default async function OgImage({ params }: { params: Promise<{ locale: Lo
         <div style={{ display: "flex", alignItems: "center", gap: 18 }}>
           <img src={getEmblemDataUri()} width={64} height={64} alt="" />
           <div style={{ display: "flex", fontSize: 30, color: "#ffffff", fontWeight: 600 }}>
-            Tiziwiz <span style={{ color: "#a1a1aa", fontWeight: 400 }}>&nbsp;Delivery</span>
+            Tiziwiz <span style={{ color: "#a1a1aa", fontWeight: 400 }}>&nbsp;SARL</span>
           </div>
         </div>
 

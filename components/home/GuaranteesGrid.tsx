@@ -5,9 +5,9 @@ import { FadeUp } from "@/components/motion"
 type GuaranteeItem = { title: string; description: string }
 
 const IMAGES = [
-  "/images/coursier-livreur-agadir-maroc.jpg",
+  "/images/coursier-livreur-agadir-maroc-v2.jpg",
   "/images/front-de-mer-plage-agadir.jpg",
-  "/images/livraison-rapide-scooter-agadir.jpg",
+  "/images/livraison-rapide-scooter-agadir-v2.jpg",
 ]
 
 export function GuaranteesGrid() {

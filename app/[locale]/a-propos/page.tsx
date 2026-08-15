@@ -51,7 +51,7 @@ export default async function AboutPage({ params }: Props) {
           <BlurReveal>
             <div className="relative aspect-[4/3] w-full overflow-hidden rounded-[var(--radius-card)] bg-surface-muted shadow-xl shadow-ink/10">
               <Image
-                src="/images/coursier-livreur-agadir-maroc.jpg"
+                src="/images/coursier-livreur-agadir-maroc-v2.jpg"
                 alt={t("missionImageAlt")}
                 fill
                 sizes="(min-width: 1024px) 45vw, 90vw"
