@@ -109,7 +109,7 @@ export function Header() {
             />
             <span>
               Tiziwiz
-              <span className="text-ink-subtle font-normal"> Delivery</span>
+              <span className="text-ink-subtle font-normal"> SARL</span>
             </span>
           </Link>
 

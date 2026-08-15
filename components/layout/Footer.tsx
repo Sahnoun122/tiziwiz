@@ -34,7 +34,7 @@ export async function Footer() {
             <Link href="/" className="flex items-center gap-2.5 text-lg font-semibold tracking-tight">
               <Image src="/brand/emblem-white.png" alt="" width={36} height={36} className="h-9 w-9" />
               <span>
-                Tiziwiz<span className="font-normal text-ink-inverse-muted"> Delivery</span>
+                Tiziwiz<span className="font-normal text-ink-inverse-muted"> SARL</span>
               </span>
             </Link>
             <p className="mt-4 text-sm leading-relaxed text-ink-inverse-muted">{t("description")}</p>
@@ -117,7 +117,7 @@ export async function Footer() {
 
         <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-border-dark pt-8 sm:flex-row">
           <p className="text-sm text-ink-inverse-muted">
-            © {year} {siteConfig.name}. {t("copyright")}
+            © {year} {siteConfig.legalName}. {t("copyright")}
           </p>
           <ul className="flex items-center gap-6">
             {legalLinks.map((item) => (

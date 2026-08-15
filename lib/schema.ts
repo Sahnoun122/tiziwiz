@@ -8,6 +8,7 @@ export function organizationSchema(locale: Locale = "fr") {
     "@type": "LocalBusiness",
     "@id": `${siteConfig.url}/#organization`,
     name: siteConfig.name,
+    legalName: siteConfig.legalName,
     alternateName: siteConfig.shortName,
     url: siteConfig.url,
     image: localeUrl(locale, siteConfig.ogImage),

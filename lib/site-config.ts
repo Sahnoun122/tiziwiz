@@ -1,6 +1,9 @@
 export const siteConfig = {
   name: "Tiziwiz Delivery",
   shortName: "Tiziwiz",
+  // Registered legal entity name (as on the RC/ICE documents), distinct from the
+  // trade name above — required verbatim on-site for Meta Business Verification.
+  legalName: "TIZIWIZ SARL",
   tagline: "Votre service de livraison rapide à Agadir",
   description:
     "Tiziwiz Delivery est le service de livraison rapide à Agadir : repas, courses, médicaments, colis et livraison pour entreprises, disponible 24h/24 et 7j/7.",

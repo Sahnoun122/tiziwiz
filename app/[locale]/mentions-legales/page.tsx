@@ -46,7 +46,7 @@ export default async function MentionsLegalesPage({ params }: Props) {
               <p className="mt-3">{t("publisherIntro")}</p>
               <ul className="mt-3 space-y-1.5">
                 <li>
-                  {t("denomination")} : {siteConfig.name}
+                  {t("denomination")} : {siteConfig.legalName}
                 </li>
                 <li>
                   {t("address")} : {siteConfig.contact.addressLine}, {siteConfig.contact.city},{" "}
