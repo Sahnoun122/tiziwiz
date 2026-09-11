@@ -1,7 +1,14 @@
+import type { NextRequest } from "next/server"
 import createMiddleware from "next-intl/middleware"
 import { routing } from "./i18n/routing"
+import { MAINTENANCE_MODE, maintenanceResponse } from "./lib/maintenance"
 
-export default createMiddleware(routing)
+const intlProxy = createMiddleware(routing)
+
+export default function proxy(request: NextRequest) {
+  if (MAINTENANCE_MODE) return maintenanceResponse()
+  return intlProxy(request)
+}
 
 export const config = {
   matcher: [
